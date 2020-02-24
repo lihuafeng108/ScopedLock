@@ -1,0 +1,4 @@
+*.bin
+/src/build/
+/.vscode/
+/*.si4project/
